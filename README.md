@@ -7,6 +7,6 @@ I will test it.
 this is new branch.
 
 
-i want a new branc.
+i want a new branch.
 
 
